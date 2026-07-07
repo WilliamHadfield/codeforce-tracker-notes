@@ -1,1 +1,6 @@
 this problem was just. always 67 because y could always only be equal to or smaller than 67.
+
+
+
+B:
+this problem was fine. it took me using a bit of ai to wrap my head around that you want to biggest integer each time so its just a sort and bing bam bong. and your done.

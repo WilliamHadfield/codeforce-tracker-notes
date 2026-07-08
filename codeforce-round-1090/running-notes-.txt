@@ -9,4 +9,4 @@ this problem was fine. it took me using a bit of ai to wrap my head around that 
 
 C:
 
-essentially this basis on essentially a basic series problem where you have to realises that 3N is the Max number,
+essentially this is a series problem, the criteria or the crux of the problem is that we get given a N variable by the judge and then for each N given we create a series of 3 numbers except we must maximize the median using a pattern or sequential order.

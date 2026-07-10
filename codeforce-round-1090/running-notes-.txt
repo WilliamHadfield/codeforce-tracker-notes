@@ -10,3 +10,10 @@ this problem was fine. it took me using a bit of ai to wrap my head around that 
 C:
 
 essentially this is a series problem, the criteria or the crux of the problem is that we get given a N variable by the judge and then for each N given we create a series of 3 numbers except we must maximize the median using a pattern or sequential order.
+this is done by essentially starting from 3n or the biggest number and going down the list and creating pairs. because its burner than median like so:
+3n = burner
+3n - 1 = median
+3n - 2 = burner
+3n - 3 = median
+this is because essentially by doing this we can achieve the MAX median value each time which will cumulatively give us the max median sum. we do this sequence till we get to 2n because 2n is when we have a pair for every one of these numbers because 2n literally represents a nth amount of pairs.
+then below 2n is the junk numbers or the 3rd number in each individual sequence which is below the median which we dont care about.

@@ -40,3 +40,6 @@ the greatest common divisor of both sequences would be 1 because x, x + 4, or 1,
 
 
 for my method i chose 2n- 1 and 2n + 1 to represent conseuctive either sequential odd numbers or odd numbers with gaps of 4, but 2n + 1 and 2n + 5 would work just as well.
+
+
+NOTICE- with how much i struggled with problem D theres NO WAY i can currently do E F or G so i am gonna postpone the rest of these problems and just mark it - 12/07/2026

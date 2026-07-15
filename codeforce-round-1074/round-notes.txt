@@ -4,3 +4,11 @@
 problem a :
 this is just essentially a trick question because any positive integer can be squared so therefore the answer is just all numbers from 1..=n.
 
+
+problem b:
+is gonna require some more thought, the tricky bit is, that sequently or pseudo-code logic wise it isnt that conceputally difficut, its essentially finding the max of integers in a array incrementing from 0 -> 0..n or increasing the indexs compared at each interval.
+now however the issue poses, do i just use a hashset? or a vec? the issue is that it changes every interval so i guess something like:
+add new number to vec
+.sort?
+then sum into a running total.
+

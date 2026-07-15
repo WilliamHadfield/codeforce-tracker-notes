@@ -11,4 +11,4 @@ now however the issue poses, do i just use a hashset? or a vec? the issue is tha
 add new number to vec
 .sort?
 then sum into a running total.
-
+then based on the hits which STRONGLY suggest some sort of sorting mechanics or once max found always return that sort of thing. buttt that max number comes at a certian point call it N but every number before N needs to be accounted for.

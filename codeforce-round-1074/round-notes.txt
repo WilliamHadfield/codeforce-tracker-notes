@@ -19,3 +19,13 @@ problem c:
 this is a tricky one for me, essentially the premise of the problem is you want the MEX of the problem but i think this might be a trick? that adding number or any N value is irrelveant cause ultiametly what your doing is adding a random x to a set of integers
 and then finding the smallest non negative integer NOT in the sequence.
 got to remember that for iterating or looping its ALWAYS .next().parse().unwrap() for loops always it never uses i or _ for when your unpacking the values.
+
+took a while to crack this one, turns out its similar to the second except you sort THEN add subtract the min from every index to get the minimum MEX
+
+if array min already 0 then x = 0 and you dont shift.
+
+if the min is postive you shift down.
+
+if your min is negative you shift up.
+
+which gives the best MEX result each time

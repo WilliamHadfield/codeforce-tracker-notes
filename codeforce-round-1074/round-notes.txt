@@ -1,1 +1,6 @@
 
+15/07/26
+
+problem a :
+this is just essentially a trick question because any positive integer can be squared so therefore the answer is just all numbers from 1..=n.
+

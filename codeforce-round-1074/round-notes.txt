@@ -29,3 +29,5 @@ if the min is postive you shift down.
 if your min is negative you shift up.
 
 which gives the best MEX result each time
+
+nvm there a more optimal solution i will find tommorow!

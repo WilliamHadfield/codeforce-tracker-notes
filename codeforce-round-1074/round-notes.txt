@@ -18,3 +18,4 @@ just used a simple vec push + reverse sort trick to get this one done. however i
 problem c:
 this is a tricky one for me, essentially the premise of the problem is you want the MEX of the problem but i think this might be a trick? that adding number or any N value is irrelveant cause ultiametly what your doing is adding a random x to a set of integers
 and then finding the smallest non negative integer NOT in the sequence.
+got to remember that for iterating or looping its ALWAYS .next().parse().unwrap() for loops always it never uses i or _ for when your unpacking the values.

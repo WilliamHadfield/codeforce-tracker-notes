@@ -13,3 +13,8 @@ add new number to vec
 then sum into a running total.
 then based on the hits which STRONGLY suggest some sort of sorting mechanics or once max found always return that sort of thing. buttt that max number comes at a certian point call it N but every number before N needs to be accounted for.
 just used a simple vec push + reverse sort trick to get this one done. however i had a blunder that i had a ..= instead of a .. in one of the for loops which gave me a runtime error so had to correct that.
+
+
+problem c:
+this is a tricky one for me, essentially the premise of the problem is you want the MEX of the problem but i think this might be a trick? that adding number or any N value is irrelveant cause ultiametly what your doing is adding a random x to a set of integers
+and then finding the smallest non negative integer NOT in the sequence.
